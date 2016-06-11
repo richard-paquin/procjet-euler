@@ -1,8 +1,10 @@
 # project-euler
-This is a simple repository containing Java solutions to:
+This is a simple repository containing solutions to:
 > https://projecteuler.net/
 
 :+1:
+
+The project was initially started in Java, but there is no definite language.
 
 - [x] [Euler 1](src/Euler01.java)
 - [x] [Euler 2](src/Euler02.java)
@@ -34,3 +36,4 @@ This is a simple repository containing Java solutions to:
 - [x] [Euler 28](src/Euler28.java)
 - [x] [Euler 29](src/Euler29.java)
 - [x] [Euler 30](src/Euler30.java)
+- [ ] Euler 31
