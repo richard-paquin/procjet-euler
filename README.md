@@ -1,1 +1,1 @@
-# procjet-euler
+# project-euler
